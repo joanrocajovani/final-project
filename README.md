@@ -15,3 +15,6 @@ In order to get the region of the company I had to do more research. The issue i
 The majority of the visualization is on Tableau, except for the following graph that visualizes the distribution of the Revenue:
 
 ![Revenue](https://user-images.githubusercontent.com/114917673/205076754-940ddcb8-a1a1-433f-9bdd-e1390e79ebe8.JPG)
+
+Link to Tableau:
+https://public.tableau.com/app/profile/joan.roca.jovani/viz/FinalProject_16697307968330/BCNSector?publish=yes
